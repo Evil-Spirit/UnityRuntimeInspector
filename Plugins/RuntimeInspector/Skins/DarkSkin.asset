@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Name: DarkSkin
   m_EditorClassIdentifier: 
   m_font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-  m_fontSize: 12
+  m_fontSize: 20
   m_lineHeight: 30
   m_indentAmount: 12
   m_windowColor: {r: 0.29411763, g: 0.28979236, b: 0.28979236, a: 1}
-  m_backgroundColor: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 1}
+  m_backgroundColor: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 0}
   m_textColor: {r: 0.83823526, g: 0.84439874, b: 0.84439874, a: 1}
   m_scrollbarColor: {r: 0.29803923, g: 0.29803923, b: 0.29803923, a: 1}
   m_expandArrowColor: {r: 0.40784317, g: 0.40784317, b: 0.40784317, a: 1}
